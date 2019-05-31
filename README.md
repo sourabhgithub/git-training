@@ -19,7 +19,7 @@ To run the application, execute the following Maven goal:
 
 On Windows, make sure to point to the correct file based on the version number:
 
-```
+```test
 mvn clean install && mvn spring-boot:run
 ```
 
